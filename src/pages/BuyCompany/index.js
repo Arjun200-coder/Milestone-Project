@@ -1,0 +1,1 @@
+export { default as BuyCompanyPage } from './BuyCompany';
